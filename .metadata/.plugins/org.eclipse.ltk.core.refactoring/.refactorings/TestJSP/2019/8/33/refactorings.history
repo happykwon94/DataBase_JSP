@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;admin_login_result.jsp, admin_login.jsp, admin_page.jsp&apos; to &apos;Admin&apos;" description="Move 3 resources to &apos;Admin&apos;" destination="WebContent/WEB-INF/Admin" element1="WebContent/admin_login_result.jsp" element2="WebContent/admin_login.jsp" element3="WebContent/admin_page.jsp" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="3" stamp="1565585053879" updateReferences="true"/>
+</session>
